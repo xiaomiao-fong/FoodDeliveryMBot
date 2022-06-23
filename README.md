@@ -1,6 +1,6 @@
 # FoodDeliveryMBot
 
-## Descirption
+## Desciription
 A program specifically defined for Mbot. It simulates food delivery on a pre-designed map, with path-planning algorithms implemented.
 
 ## Map
