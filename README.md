@@ -1,7 +1,8 @@
 # FoodDeliveryMBot
 
 ## Description
-A program specifically designed for Mbot. It simulates food delivery on a pre-designed map, with path-planning algorithms implemented.
+A program specifically designed for Mbot. It simulates food delivery on a pre-designed map, with path-planning algorithms implemented.<br>
+Here is the [Slide](https://docs.google.com/presentation/d/16jZjJHSLCN8ToozLTsLgWc3A_d9-HIHL2r-akeeLnOg/edit#slide=id.p)
 
 ## Map
 
