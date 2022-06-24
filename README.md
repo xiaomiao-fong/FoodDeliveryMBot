@@ -22,5 +22,6 @@ If you want to run this simulation on your own map, replace the pre-defined data
 
 ## Contributors
 
-  - xiaomiao-fong
+  - [xiaomiao-fong](https://github.com/xiaomiao-fong)
   - [yufishxiaobai](https://www.instagram.com/yufishxiaobai/)
+  - [Dr. Kiwi](https://github.com/Eric7654321)
